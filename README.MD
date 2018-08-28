@@ -1,3 +1,7 @@
-## Tutorial on How to Build a Shopping Cart with Laravel
+## Laravel webshop cms  
 
-This Github repo simply holds the code of my YouTube series which shows how to create a shopping cart using Laravel.
+This is my first Laravel project, based on several tutorials, like Traversy media's Laravel from Scratch, Academind's Build a Shopping cart and DevMarketer's Blog building series.
+
+This project's features:
+Webshop with implemented Stripe.
+Admin panel - CRUD products, news, etc.
